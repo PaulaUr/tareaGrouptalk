@@ -1,0 +1,24 @@
+[
+  {
+    "path":"myresource",
+    "methods":["GET"]
+  },
+  {
+    "path": "users",
+    "methods": ["POST"]
+  },
+  {
+    "path": "grupo/obtenergrupos",
+    "methods": ["GET"]
+  },
+
+  {
+    "path": "login",
+    "methods": ["POST"]
+  },
+  {
+    "path": "/",
+    "methods": ["GET"]
+  }
+
+]
